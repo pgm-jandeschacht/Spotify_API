@@ -2,7 +2,7 @@
  
  This is a spotify clone with no front end. You can add, change and delete songs and playlists as a user, as an admin you can also add, change and delete users. This was the first time making a back end application of this size. This was an assingment for Artevelde.
 
-**Technologies used:** Javascript, Chalk, EsLint, DotEnv, Passport, Knex, Uuid, Sqlite3, Faker, Express, JWT, Nodemon
+**Technologies used:** Javascript, Chalk, EsLint, DotEnv, Passport, Knex, Uuid, SQLite3, Faker, Express, JWT, Nodemon
 
 ## Usage
 
